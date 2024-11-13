@@ -1,1 +1,1 @@
-https://color-generator-react-mini-project.netlify.app/
+https://color-generator-react-mini-project.vercel.app/
